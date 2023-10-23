@@ -1,0 +1,12 @@
+#__nuxt, html, body{
+    flex-direction: column!important;
+    /* height: 100%!important; */
+    display: flex!important;
+}
+
+.footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    z-index: 100;
+}
